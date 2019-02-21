@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.sass';
+import './index.css';
 import SearchFilter from './SearchFilter.react';
 import * as serviceWorker from './serviceWorker';
 

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './App.sass';
+import './App.css';
 import content from './contentfromv2.json';
 import _ from 'underscore';
 import Select from 'react-select';
